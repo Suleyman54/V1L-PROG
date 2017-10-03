@@ -1,0 +1,8 @@
+letters = ('A', 'C', 'B', 'B', 'C', 'A', 'C', 'C', 'B')
+letters.count('A')
+letters.count('B')
+letters.count('C')
+print('de letters: ', letters)
+print('Aantal keer de letter A:', letters.count('A'))
+print('Aantal keer de letter B:', letters.count('B'))
+print('Aantal keer de letter C:', letters.count('C'))
