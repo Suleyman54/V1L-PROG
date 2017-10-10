@@ -6,5 +6,4 @@ while True:
     if x[-1] == 0:
         z = sum(x)
         break
-
-print('Er zijn ' + str(len(x)) + ' getallen ingevoerd, de som is: ' + str(z))
+print('Er zijn ' + str(len(x))  + ' getallen ingevoerd, de som is: ' + str(z))

@@ -4,9 +4,12 @@ def split(invoer):
     nieuw_x = []
     for aap in x:
         nieuw_x.append(int(aap))
+    # print(sorted(x))
+    sorteer_waarde = str(sorted(x))
+    print('gesorteerde waarde is ' + sorteer_waarde)
 
-    groote_waarde = max(x)
-    print('het grootste getal is: ' + groote_waarde)
+    grootste_waarde = max(x)
+    print('het grootste getal is: ' + grootste_waarde)
 
     kleine_waarde = min(x)
     print('Het kleinste getal is: ' + kleine_waarde)

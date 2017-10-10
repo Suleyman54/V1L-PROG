@@ -46,3 +46,10 @@
 #
 # print(weekday+', '+month+' '+str(day)+', '+str(year)
 # +' at '+str(hour)+':'+str(minute)+':'+str(second))
+# print('i i**2 i**3 2**i')
+# for i in range(1,13):
+#     print(i, i**2, i**3, 2**i, sep='')
+
+# print('{0:2},{1:5}'.format(12, 354))
+
+
